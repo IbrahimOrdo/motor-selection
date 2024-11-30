@@ -1,0 +1,1 @@
+"This project involves creating an algorithm that recommends the most suitable vehicle based on the user's physical attributes, travel habits, profession, and preferences. The system considers multiple factors like age, weight, height, weekly travel distance, and more, providing personalized motor recommendations along with cost and fuel estimates."
