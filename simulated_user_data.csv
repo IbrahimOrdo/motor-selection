@@ -1,0 +1,501 @@
+Name,Age,Height,Weight,Gender,Marital Status,Occupation,Annual Income,Weekly Travel Distance,Preferred Vehicle Type,Fuel Type,Has Purchased Vehicle,Vehicle Purchase Year
+Robert Johnson,37,152.6,101.7,Male,Married,Radiation protection practitioner,91772,312,Sedan,Electric,False,
+Michelle Carey,50,194.1,53.4,Female,Single,Magazine journalist,41063,60,Hatchback,Electric,True,
+Alicia Jenkins,60,195.9,67.2,Female,Married,Hydrogeologist,85364,471,Hybrid,Electric,False,
+Walter Bautista,64,196.6,93.4,Female,Married,Geophysical data processor,60510,363,Sedan,Gasoline,False,
+Travis Thomas,31,169.0,117.6,Male,Married,"Librarian, public",21026,343,Hatchback,Gasoline,False,
+William Wheeler,30,163.5,53.6,Male,Divorced,Engineering geologist,99919,347,Hatchback,Hybrid,True,
+Madison Davidson,52,166.5,86.8,Male,Married,"Engineer, petroleum",40678,346,Hatchback,Hybrid,True,2019.0
+Evan Thornton,33,183.8,70.3,Female,Divorced,"Journalist, newspaper",92349,35,SUV,Gasoline,False,
+Jaime Kennedy,42,164.5,54.1,Female,Divorced,Land,67162,210,Luxury,Hybrid,False,2022.0
+Erika Wallace,27,171.2,84.5,Male,Married,Chemical engineer,34215,482,Sedan,Electric,True,
+Kelsey Scott,19,179.6,95.7,Female,Single,Oceanographer,36979,39,Sedan,Diesel,True,
+Richard Harrell,44,175.8,80.4,Female,Married,"Physicist, medical",97352,165,Electric,Electric,False,2018.0
+Meghan Howell,21,167.9,67.7,Female,Divorced,"Doctor, general practice",54482,197,Sedan,Diesel,False,2016.0
+Carol Ramirez,48,165.1,52.8,Male,Married,Planning and development surveyor,84556,436,Sedan,Diesel,False,2016.0
+Mrs. Taylor Eaton,41,189.0,94.8,Male,Single,Chiropodist,27587,439,Hybrid,Gasoline,True,
+Rodney Gutierrez,67,173.7,55.0,Female,Married,"Therapist, drama",66291,206,Truck,Gasoline,False,2021.0
+Benjamin Webster,19,185.3,118.3,Male,Divorced,Chemical engineer,73689,494,Hybrid,Electric,True,2016.0
+Natasha Mitchell,18,164.0,63.0,Female,Married,"Therapist, occupational",45760,226,Hatchback,Electric,False,2022.0
+Melanie Martin,25,162.6,65.3,Female,Married,Homeopath,28655,318,Luxury,Hybrid,False,2018.0
+Vanessa Jacobs,53,153.4,91.5,Male,Single,Financial controller,65060,177,Sedan,Diesel,True,2017.0
+Joel Campos,31,154.3,74.8,Male,Married,Office manager,28280,142,Hybrid,Diesel,False,2018.0
+Benjamin Estrada,66,188.3,89.0,Male,Divorced,"Accountant, chartered public finance",75010,85,Hatchback,Electric,False,
+Charles Spencer,42,179.4,115.3,Female,Divorced,Farm manager,95689,52,SUV,Electric,True,
+Katherine Pacheco DDS,45,171.9,79.0,Female,Married,Musician,51543,461,Hatchback,Hybrid,True,2018.0
+Brian Torres,61,198.5,101.6,Female,Married,Sub,93664,69,Luxury,Diesel,True,
+Sean Martin,37,172.4,55.1,Male,Divorced,"Sales professional, IT",48782,101,Luxury,Diesel,False,
+James Abbott,37,151.2,101.9,Female,Divorced,Armed forces training and education officer,90199,302,SUV,Electric,False,
+Christopher Maxwell,67,197.6,66.3,Male,Married,Pension scheme manager,71284,372,Sedan,Diesel,True,2016.0
+Robert Davis,69,184.7,60.8,Male,Single,"Scientist, biomedical",83026,175,Hatchback,Gasoline,False,2017.0
+Laura Walters,60,162.7,115.2,Female,Single,Chief Executive Officer,64594,343,Sedan,Diesel,False,2015.0
+Anthony Durham,63,157.9,106.3,Male,Divorced,Facilities manager,84816,222,SUV,Gasoline,True,
+Sean Miles,48,193.0,66.1,Male,Married,"Engineer, site",48176,279,Truck,Electric,False,2019.0
+Tina Cline,23,151.2,99.8,Female,Married,Land,25821,270,Truck,Hybrid,True,
+Anthony Mcdonald,61,153.8,82.2,Female,Married,International aid/development worker,35502,323,Truck,Electric,False,2021.0
+Mrs. Michelle Pacheco MD,62,172.2,76.6,Male,Married,Lexicographer,74940,389,Electric,Gasoline,True,2017.0
+Amanda Bishop,50,189.0,81.7,Male,Divorced,International aid/development worker,31942,314,Sedan,Hybrid,True,2020.0
+Sheila Robertson,24,185.8,116.3,Male,Married,Counselling psychologist,45858,279,Luxury,Gasoline,False,
+Nicholas Brown,42,158.3,70.0,Male,Divorced,Private music teacher,38138,431,SUV,Hybrid,False,
+Gregory Rivers,39,171.0,76.4,Female,Divorced,Teaching laboratory technician,42143,171,Electric,Hybrid,True,
+Aaron Parsons Jr.,51,177.2,81.5,Male,Married,Operations geologist,49637,304,Hatchback,Hybrid,False,2022.0
+Rachel Jones,20,185.6,74.4,Female,Single,Clinical psychologist,85261,88,Hatchback,Diesel,False,2018.0
+Adam Long,43,187.8,87.3,Female,Married,Sales promotion account executive,41411,279,Sedan,Gasoline,True,
+Robert Ward,68,191.2,65.9,Female,Divorced,Metallurgist,96967,181,SUV,Hybrid,True,2016.0
+Tommy Luna,19,167.5,54.5,Male,Divorced,Insurance account manager,58099,439,Luxury,Gasoline,False,2015.0
+Jordan Mccann,69,188.0,77.7,Female,Divorced,Science writer,95205,256,Hatchback,Hybrid,True,
+Natalie Mcgee,32,182.3,106.8,Male,Divorced,Customer service manager,66005,266,Sedan,Hybrid,True,
+Taylor Smith,29,155.2,103.6,Female,Married,"Engineer, electrical",36236,464,Sedan,Electric,True,
+Raymond Preston,44,159.2,99.1,Male,Single,Media planner,94391,383,Sedan,Hybrid,False,2019.0
+Michael Rodgers,67,158.5,96.4,Male,Single,Forensic psychologist,56784,471,Electric,Electric,False,2018.0
+Heather Pham,49,154.7,106.5,Male,Single,Chief Financial Officer,44120,224,SUV,Diesel,True,2023.0
+Kathryn Smith,55,173.3,96.7,Male,Divorced,"Administrator, sports",70776,246,SUV,Gasoline,True,2022.0
+Bradley Johnson,24,198.1,65.2,Male,Married,"Journalist, newspaper",69977,472,Truck,Gasoline,True,2019.0
+Shannon Smith,39,189.5,63.5,Male,Divorced,"Engineer, maintenance (IT)",26925,156,SUV,Gasoline,False,2016.0
+Melissa Paul,29,172.4,93.5,Female,Divorced,Museum/gallery exhibitions officer,98882,419,Hybrid,Diesel,True,
+Robert Graves,64,177.8,114.8,Male,Divorced,Primary school teacher,39649,108,Sedan,Diesel,False,2018.0
+Dawn Robinson,65,173.2,76.8,Female,Single,Recruitment consultant,94671,313,Hybrid,Electric,False,
+Crystal Davis,31,184.5,112.2,Female,Married,Catering manager,57564,100,Truck,Electric,False,2016.0
+Miranda Reilly,24,197.0,114.9,Female,Divorced,Adult nurse,22355,424,Luxury,Diesel,True,2017.0
+Daniel Vasquez,31,157.8,98.7,Female,Married,Production manager,70137,420,Luxury,Diesel,False,2022.0
+Kyle Jackson,43,178.2,116.2,Male,Divorced,Agricultural consultant,53141,243,SUV,Gasoline,False,2023.0
+Catherine Moon,68,178.1,101.4,Female,Divorced,Commercial/residential surveyor,67648,164,Hybrid,Gasoline,False,
+Frank Rivera,38,153.6,81.1,Female,Single,Quarry manager,97228,495,Electric,Gasoline,True,2023.0
+Richard Butler,39,189.9,62.1,Female,Single,Chartered certified accountant,47150,203,SUV,Gasoline,True,
+Allen Jackson,68,193.9,93.6,Female,Single,"Surveyor, hydrographic",37755,127,Luxury,Electric,True,
+Matthew Sellers,30,184.3,82.3,Male,Married,"Designer, textile",90636,376,Hybrid,Gasoline,False,
+Dorothy White,35,190.3,60.8,Male,Single,Analytical chemist,65289,164,Hybrid,Hybrid,True,
+Veronica Good,35,174.9,70.3,Male,Single,Structural engineer,31942,454,Sedan,Electric,False,2017.0
+Jennifer Grant,48,167.7,54.8,Male,Single,Amenity horticulturist,22966,499,SUV,Gasoline,True,2015.0
+Carmen Bradley,22,174.9,57.3,Female,Married,"Designer, blown glass/stained glass",62713,372,Electric,Hybrid,False,2021.0
+Eric Sparks,56,177.7,113.5,Female,Single,Magazine journalist,63637,15,Truck,Diesel,True,2016.0
+Susan Scott,46,199.6,109.6,Male,Single,"Designer, interior/spatial",23128,231,Electric,Electric,False,2016.0
+Robert Bernard,65,164.4,90.6,Female,Married,"Editor, commissioning",21829,123,Hybrid,Diesel,True,
+Angel Wang,22,170.9,56.5,Female,Divorced,Arboriculturist,95106,307,SUV,Hybrid,True,2018.0
+Leonard Robertson,38,198.2,111.5,Male,Single,Retail manager,71735,448,SUV,Electric,True,2022.0
+Alfred Watson,22,153.2,88.1,Female,Married,Diagnostic radiographer,63307,59,Sedan,Gasoline,False,2016.0
+Emily Rose,34,163.7,97.9,Male,Single,Air cabin crew,57617,228,Hatchback,Gasoline,True,
+Greg Baker,70,170.1,73.0,Female,Single,"Education officer, community",80428,53,Truck,Hybrid,True,
+William Ramirez,24,165.4,114.6,Female,Married,Geophysicist/field seismologist,71621,56,Hatchback,Diesel,False,
+Brandon Vega,33,153.3,118.8,Female,Married,Barrister's clerk,44667,75,Electric,Gasoline,False,
+Bethany Tran,49,172.0,103.5,Male,Divorced,Consulting civil engineer,86044,454,SUV,Diesel,True,
+Joshua Smith,19,181.7,93.9,Male,Single,Sports development officer,68532,359,Electric,Electric,True,
+Joseph Le,19,182.6,64.7,Male,Single,"Administrator, Civil Service",39203,215,SUV,Diesel,True,
+Eric Stevens,67,182.5,83.4,Female,Married,Musician,33374,359,Electric,Gasoline,False,2017.0
+Holly Kent,44,164.3,62.9,Male,Married,"Engineer, structural",78216,375,Truck,Hybrid,True,
+Margaret Smith,48,157.0,97.9,Male,Married,"Surveyor, rural practice",34429,405,SUV,Diesel,True,
+Mrs. Melinda Morgan,66,192.4,87.5,Female,Married,Mining engineer,63469,20,Hatchback,Hybrid,True,2018.0
+Susan Espinoza,66,166.4,92.2,Male,Single,"Surveyor, minerals",46341,270,Truck,Diesel,True,2017.0
+Shannon Massey,42,181.4,57.8,Female,Married,Financial adviser,56446,490,Luxury,Hybrid,False,2017.0
+Melinda Key,37,174.3,71.0,Female,Divorced,Community arts worker,86780,157,Truck,Electric,False,2023.0
+Trevor Carter,41,189.2,109.1,Female,Single,Risk analyst,83986,481,Electric,Hybrid,False,2020.0
+Christine Smith,51,157.1,90.4,Female,Married,"Engineer, electrical",81983,145,Luxury,Diesel,True,
+Shirley Ayala,20,167.2,105.3,Female,Married,Exercise physiologist,24213,166,Electric,Diesel,False,2015.0
+Chris Sherman,70,184.3,78.9,Female,Divorced,Structural engineer,29371,463,Sedan,Diesel,True,2019.0
+Mrs. Theresa Smith,44,166.2,86.6,Female,Married,"Engineer, civil (consulting)",34680,321,Sedan,Hybrid,False,
+Christine Guerrero,65,194.8,106.3,Male,Single,Education administrator,53301,344,Hatchback,Gasoline,True,2022.0
+James Robinson,68,154.0,112.1,Female,Single,Mechanical engineer,76759,220,Sedan,Electric,True,
+Thomas Henson,52,185.5,79.4,Male,Married,"Psychotherapist, dance movement",41560,169,Hybrid,Hybrid,False,2021.0
+Luke Kelly,41,159.8,59.9,Male,Married,"Research officer, government",72424,494,Luxury,Electric,True,
+Kyle Chapman,26,192.3,53.5,Female,Single,Physiological scientist,75331,191,Luxury,Electric,True,
+Jennifer Dudley,22,166.4,59.4,Female,Single,Counsellor,24018,261,Sedan,Hybrid,True,
+Lucas Norris,30,163.8,69.9,Female,Divorced,"Therapist, sports",77674,309,Electric,Hybrid,False,
+Lauren Baker,64,150.6,95.0,Female,Divorced,Chartered management accountant,88334,246,Hybrid,Hybrid,True,
+Benjamin Huff,51,193.5,75.0,Male,Divorced,"Scientist, audiological",55487,62,Truck,Hybrid,True,
+Paul Coleman,69,171.8,100.2,Male,Married,Community pharmacist,74279,364,Luxury,Electric,False,
+Corey Russo,50,178.4,75.3,Male,Divorced,Interior and spatial designer,32687,407,SUV,Diesel,False,
+John Peters,30,157.0,56.9,Male,Single,Industrial buyer,80056,139,Truck,Diesel,False,2023.0
+Amy Taylor,60,188.0,109.5,Female,Single,General practice doctor,26568,103,Luxury,Gasoline,True,2015.0
+Jessica Wilson,39,154.0,77.2,Female,Married,"Accountant, chartered management",80803,416,Hybrid,Gasoline,True,
+Monica Newton,69,150.3,102.0,Male,Divorced,Insurance risk surveyor,62869,344,Sedan,Hybrid,False,2017.0
+Justin Hudson,34,192.9,90.6,Female,Married,"Engineer, agricultural",81655,36,Truck,Hybrid,False,
+Cheryl Duncan,24,168.6,59.9,Female,Married,"Teacher, adult education",88616,112,Hybrid,Electric,False,
+George Williams,43,185.3,84.7,Male,Single,"Surveyor, insurance",56274,143,Sedan,Electric,False,
+Nathan Hess,22,157.5,107.8,Female,Married,"Research officer, political party",34177,262,Luxury,Diesel,False,2021.0
+Mrs. Allison Sullivan,32,173.4,88.8,Female,Single,Armed forces training and education officer,41433,21,Electric,Hybrid,False,2022.0
+Ann Higgins,47,189.5,52.8,Female,Married,Planning and development surveyor,77491,336,Hatchback,Hybrid,False,
+Lance Gibson,40,197.3,115.3,Female,Married,Web designer,86682,309,Hybrid,Electric,True,
+James Berry,24,193.6,107.0,Female,Single,"Biochemist, clinical",34468,202,SUV,Hybrid,False,
+Charles Barajas,58,152.2,76.1,Female,Single,Public relations account executive,46842,370,Hatchback,Diesel,False,2019.0
+Julie Chase,53,153.1,77.3,Female,Divorced,Secondary school teacher,65669,324,Luxury,Gasoline,False,
+Michael Shelton,26,162.3,102.8,Male,Single,Geophysicist/field seismologist,70834,25,Sedan,Electric,False,
+Denise Moore,66,176.5,110.1,Male,Married,"Embryologist, clinical",53562,158,Hatchback,Hybrid,True,2022.0
+Lisa Pope,61,159.4,50.7,Female,Married,Warden/ranger,64092,105,Electric,Diesel,False,2020.0
+Connie Martin,31,193.6,50.1,Female,Divorced,Industrial/product designer,24269,119,SUV,Electric,True,2015.0
+David Carpenter,35,195.5,112.7,Male,Single,Ceramics designer,44790,114,Luxury,Electric,True,2016.0
+Charles Gonzales,50,184.8,94.0,Male,Single,Commercial horticulturist,20637,332,Truck,Electric,True,2015.0
+Catherine Palmer,21,156.1,69.3,Male,Divorced,Immunologist,53980,303,Luxury,Diesel,False,
+Mallory Gregory,48,162.5,101.7,Female,Divorced,"Psychologist, educational",59740,429,Truck,Gasoline,False,
+John Harper,26,182.0,57.5,Female,Divorced,Rural practice surveyor,39379,307,Sedan,Diesel,False,
+Lisa Davis,54,199.0,93.3,Male,Single,Physiological scientist,20559,36,Electric,Electric,False,2018.0
+Brian Johnson,59,155.7,76.3,Male,Married,"Therapist, speech and language",20340,428,Truck,Gasoline,False,2015.0
+Jessica Wilson,32,156.5,83.1,Female,Divorced,Bonds trader,92484,372,Hatchback,Diesel,False,
+Stephanie Peters,70,187.1,79.0,Female,Single,Audiological scientist,81796,102,Hybrid,Electric,True,
+Justin Silva,31,198.5,113.5,Female,Divorced,"Therapist, drama",93710,139,Sedan,Gasoline,False,
+Elizabeth Humphrey,42,164.7,101.9,Male,Single,Local government officer,87720,113,SUV,Hybrid,False,
+Sharon Williams,50,151.8,77.4,Female,Single,Technical author,64438,199,Electric,Hybrid,True,
+Brenda Welch,53,163.4,113.3,Male,Divorced,"Programme researcher, broadcasting/film/video",58572,468,Electric,Gasoline,True,
+Michelle Wright,37,160.0,57.0,Female,Divorced,Occupational psychologist,50585,28,Hatchback,Electric,False,2022.0
+Kimberly Wilson,57,152.1,62.6,Male,Single,Community pharmacist,39900,119,Hybrid,Gasoline,False,2017.0
+Matthew Bennett,69,182.1,103.9,Female,Single,"Therapist, art",39254,30,Sedan,Hybrid,False,2018.0
+Matthew Pratt,42,156.0,89.1,Female,Divorced,Multimedia programmer,69099,422,Truck,Gasoline,False,
+Brittany Williams,40,164.3,53.8,Female,Divorced,"Producer, radio",60488,429,Electric,Electric,True,2018.0
+John Richardson,56,180.4,55.8,Male,Married,"Designer, furniture",67128,329,Electric,Diesel,False,
+Andrew Fitzpatrick,56,196.8,71.3,Female,Divorced,Comptroller,83933,391,SUV,Electric,True,
+Alyssa Bond,66,194.8,57.6,Female,Divorced,Counsellor,45982,104,Truck,Electric,False,2019.0
+Louis Snow,64,176.4,87.6,Male,Single,"Doctor, general practice",21293,67,Sedan,Diesel,False,2021.0
+Alyssa Smith,45,165.0,90.9,Male,Single,"Sales professional, IT",64841,181,Truck,Electric,True,
+Brooke Long,30,180.5,85.0,Male,Divorced,Chartered loss adjuster,72347,213,Hatchback,Electric,False,2019.0
+Robert Guzman,49,166.7,52.3,Female,Married,Commercial/residential surveyor,24520,361,Hybrid,Diesel,True,
+Edward Baker,46,153.5,99.1,Male,Divorced,Veterinary surgeon,57148,117,SUV,Diesel,True,2022.0
+Donald Nelson DDS,45,179.0,97.7,Male,Divorced,Passenger transport manager,30692,255,Sedan,Electric,True,
+Elizabeth Freeman,68,152.1,84.5,Male,Married,Secretary/administrator,55738,260,Luxury,Gasoline,True,2019.0
+Allison Mccarthy,29,172.8,96.3,Female,Married,"Solicitor, Scotland",88239,95,Hybrid,Electric,True,
+Bryan Hayes,23,184.3,115.3,Female,Married,"Scientist, research (maths)",50273,441,Truck,Diesel,False,2023.0
+Victoria Woods,56,192.7,85.5,Female,Single,English as a second language teacher,92426,26,Sedan,Diesel,False,2016.0
+Amber Grimes,50,150.0,113.8,Female,Married,Fashion designer,34005,215,Hybrid,Gasoline,True,2017.0
+Bianca Martin,57,174.9,109.4,Male,Divorced,Data scientist,75265,475,SUV,Gasoline,True,2018.0
+Heather Gibson,27,174.9,77.3,Male,Divorced,"Producer, television/film/video",81796,491,Luxury,Electric,False,2018.0
+Breanna Kelly,46,155.8,110.8,Male,Married,Ranger/warden,97551,13,Hybrid,Gasoline,False,
+Lisa Clark,19,186.5,110.1,Male,Divorced,Government social research officer,83640,318,Luxury,Gasoline,True,2015.0
+Danielle Harris,68,175.9,73.6,Female,Divorced,Research scientist (maths),64244,215,Sedan,Electric,True,2019.0
+Jeffery Moreno,66,167.5,62.4,Male,Divorced,Sports development officer,53371,81,Hatchback,Hybrid,True,2020.0
+Tracy Zhang,52,161.3,76.3,Male,Divorced,Housing manager/officer,54187,317,Truck,Electric,False,
+Sean Anderson,34,169.5,65.1,Male,Married,"Psychologist, forensic",59013,322,Hybrid,Diesel,False,2023.0
+Nicholas Rojas,33,189.0,61.7,Female,Single,Event organiser,55411,352,Hybrid,Gasoline,False,2021.0
+Andrew Anderson,48,175.3,100.4,Male,Married,"Scientist, marine",91591,268,Sedan,Diesel,False,2020.0
+Laura Davis MD,45,150.3,83.6,Male,Single,Charity fundraiser,37237,362,Hybrid,Hybrid,False,
+Mr. Jon Morales,39,165.2,76.8,Female,Married,Accounting technician,90973,460,Hybrid,Diesel,True,
+Tyler Smith,37,160.3,69.5,Male,Divorced,"Scientist, water quality",40230,380,SUV,Diesel,True,
+Jose Jackson,21,158.3,114.2,Male,Single,"Administrator, Civil Service",98592,435,Truck,Electric,True,
+Arthur Leonard,26,160.3,95.8,Female,Divorced,Plant breeder/geneticist,99151,331,Sedan,Gasoline,False,2017.0
+Jennifer Nelson,38,182.3,101.9,Male,Single,"Accountant, chartered public finance",84383,234,Sedan,Electric,True,2016.0
+Allison Baxter,33,179.2,54.6,Male,Divorced,Product/process development scientist,94533,400,Hybrid,Hybrid,False,2021.0
+Terri Hall,37,173.7,105.0,Female,Married,Travel agency manager,23846,48,Truck,Diesel,True,
+Ryan Lopez,29,197.9,96.1,Female,Divorced,Chief Operating Officer,50625,385,SUV,Gasoline,False,2020.0
+Amanda Anderson,42,183.9,74.8,Male,Divorced,"Horticulturist, commercial",97853,42,Hybrid,Hybrid,True,2017.0
+Amy Evans,67,180.6,61.8,Male,Married,Oncologist,58657,308,Sedan,Gasoline,True,2016.0
+Devin Warner,66,162.0,71.5,Male,Married,"Engineer, biomedical",62899,267,Hatchback,Electric,False,2015.0
+Daniel Lambert,30,152.5,70.6,Male,Divorced,Audiological scientist,32742,304,Hatchback,Gasoline,True,2019.0
+Jill Conrad,67,198.5,97.3,Male,Married,Web designer,88883,450,Hybrid,Electric,False,
+Shannon Conway,27,175.5,109.0,Male,Divorced,Haematologist,24258,446,Truck,Gasoline,False,2019.0
+Margaret Smith,67,196.5,93.2,Male,Divorced,Television/film/video producer,24027,48,Truck,Diesel,True,2016.0
+Johnny Moore,45,155.9,106.1,Male,Divorced,"Solicitor, Scotland",59286,497,Hatchback,Gasoline,False,2023.0
+Miss Kelly Green,69,152.4,84.1,Female,Married,Medical physicist,96031,60,SUV,Gasoline,False,2017.0
+Cynthia Berry,27,181.0,53.4,Male,Divorced,Dancer,69319,398,Hatchback,Electric,False,2020.0
+Jose Benson,64,188.0,105.8,Male,Divorced,"Editor, commissioning",88694,397,Truck,Diesel,False,
+Lori Zhang,38,162.0,60.9,Male,Divorced,"Teacher, adult education",90224,305,Sedan,Gasoline,True,2017.0
+Mark Rodriguez,70,153.0,113.3,Female,Single,Orthoptist,83232,51,Sedan,Diesel,False,2016.0
+William Carr,21,195.5,96.0,Male,Married,"Surveyor, commercial/residential",28880,468,Luxury,Gasoline,False,
+Raven Mcdaniel,28,158.8,101.7,Male,Single,Acupuncturist,40508,449,Luxury,Gasoline,False,2023.0
+Trevor Dunlap,59,170.5,61.8,Female,Single,Visual merchandiser,75658,132,SUV,Electric,True,2016.0
+Roger Bright,18,184.6,88.9,Female,Single,Product/process development scientist,86580,355,Luxury,Hybrid,True,2018.0
+Cassidy Thompson,67,174.2,105.5,Male,Single,"Pharmacist, community",92366,288,SUV,Gasoline,False,2017.0
+Miss Carolyn Robinson DDS,36,168.8,100.9,Female,Single,Further education lecturer,65581,455,SUV,Hybrid,True,2023.0
+Thomas Pollard,21,196.5,84.2,Female,Married,Technical brewer,37779,313,Hatchback,Diesel,False,
+Crystal Curry,53,166.0,82.6,Male,Divorced,Geochemist,69650,185,Sedan,Gasoline,False,
+Eric Torres,49,197.7,68.2,Male,Married,"Producer, radio",79717,441,SUV,Diesel,True,2016.0
+Andrea Martinez,42,171.6,114.7,Male,Divorced,Herpetologist,62996,389,SUV,Hybrid,False,
+Christopher Ford,30,179.9,112.2,Male,Married,Gaffer,48673,59,Sedan,Diesel,True,
+Jennifer Hodge,63,164.8,66.8,Male,Married,"Engineer, electronics",54937,125,Hybrid,Diesel,False,
+Anna Webb,68,177.1,85.0,Male,Divorced,Learning disability nurse,50060,261,Luxury,Gasoline,True,2017.0
+Tricia Ruiz,33,168.9,88.6,Male,Divorced,Financial controller,89594,46,Luxury,Gasoline,True,
+Herbert Flores,57,187.1,94.6,Male,Single,"Engineer, manufacturing",88696,44,SUV,Diesel,True,2019.0
+Cameron Pugh,60,186.3,96.1,Male,Single,"Scientist, water quality",89774,183,Hybrid,Hybrid,False,2022.0
+Gina Collins,55,164.7,116.2,Female,Married,"Scientist, marine",56669,383,Electric,Hybrid,True,2021.0
+Taylor Mendoza,64,156.4,77.2,Female,Single,Dentist,62855,138,SUV,Hybrid,True,
+Teresa Wilson,25,186.9,105.9,Female,Married,Textile designer,28767,295,Hybrid,Hybrid,True,
+Nicholas Edwards,59,151.9,112.7,Female,Divorced,Special educational needs teacher,57370,456,Hatchback,Diesel,False,2015.0
+Chad Downs,54,192.3,118.8,Female,Married,Transport planner,26295,127,Truck,Electric,False,2022.0
+Christina Frost,63,167.6,101.0,Male,Divorced,"Engineer, energy",89636,474,Truck,Diesel,True,
+Mark Wyatt,38,171.1,70.0,Male,Divorced,Dietitian,58561,468,Hatchback,Diesel,True,2022.0
+Matthew Lopez,45,195.3,58.7,Female,Married,"Surveyor, quantity",33808,255,Sedan,Gasoline,False,
+Robert Ramirez,60,186.0,71.8,Male,Single,"Pharmacist, hospital",91688,189,Hatchback,Diesel,True,2016.0
+Megan Sampson,22,192.8,109.0,Male,Married,Film/video editor,33513,305,Luxury,Electric,True,
+Erik Cervantes,21,177.3,54.7,Female,Divorced,Animal nutritionist,43503,253,Sedan,Gasoline,False,2017.0
+Karen Rodriguez,27,153.4,75.4,Female,Married,"Journalist, newspaper",22527,288,Sedan,Hybrid,True,2023.0
+Gregory Novak,52,199.1,116.9,Female,Divorced,Ranger/warden,71630,295,Hatchback,Electric,False,2021.0
+Gary Thomas,62,165.9,89.1,Female,Married,Tourist information centre manager,64326,99,Sedan,Hybrid,True,
+Mary Ford,47,196.8,115.1,Female,Married,Writer,60435,376,Electric,Diesel,True,
+Dennis Miller,62,195.5,54.1,Male,Single,Oncologist,26797,161,Hatchback,Diesel,False,2019.0
+David Rollins,26,160.1,69.3,Female,Married,Soil scientist,76975,25,SUV,Hybrid,False,
+James Vasquez,44,184.6,67.3,Male,Single,Local government officer,29119,390,Luxury,Electric,True,
+Erika Davidson,56,165.8,96.6,Female,Married,"Psychologist, educational",58200,182,SUV,Diesel,False,2016.0
+Tina May,45,170.2,81.4,Female,Married,"Presenter, broadcasting",40008,68,SUV,Gasoline,True,
+John Morrison,64,172.9,103.5,Male,Divorced,Engineering geologist,72767,255,Hatchback,Gasoline,True,2023.0
+James Hawkins DDS,30,161.5,98.2,Male,Divorced,Accommodation manager,30931,310,Truck,Gasoline,True,
+Keith Evans,54,162.6,86.8,Male,Married,Special educational needs teacher,71457,448,Truck,Electric,False,2016.0
+Linda Phillips,42,197.2,100.3,Female,Divorced,Arts administrator,24277,337,Electric,Diesel,False,
+Christina Allen,38,182.4,87.0,Female,Divorced,Furniture conservator/restorer,94911,220,SUV,Hybrid,False,2023.0
+Patrick Ewing,42,150.3,103.0,Male,Married,Cabin crew,62720,196,Electric,Electric,False,
+Stephanie Solis,22,175.8,58.4,Male,Married,"Psychologist, clinical",82274,453,Hatchback,Diesel,True,2023.0
+Heather Murray,55,198.3,103.5,Male,Divorced,Publishing copy,84823,163,Electric,Gasoline,False,2020.0
+Jordan Gonzales,50,162.7,63.0,Male,Single,"Conservator, furniture",49772,49,Hybrid,Gasoline,False,2019.0
+Colton Thomas,26,160.3,116.5,Female,Single,"Optician, dispensing",89456,301,Truck,Diesel,False,2017.0
+Julie Cantrell,54,181.3,94.3,Male,Married,"Psychologist, forensic",43744,262,Sedan,Hybrid,False,2022.0
+Donald Clark,67,182.4,111.6,Male,Married,Chartered public finance accountant,52590,194,Hybrid,Electric,False,2023.0
+Jeffery Williams,47,184.7,100.9,Male,Married,Armed forces training and education officer,66275,458,Truck,Electric,False,2021.0
+Stuart Spence,54,164.6,109.3,Female,Married,"Therapist, speech and language",24541,387,Hatchback,Hybrid,True,2020.0
+Christina Zhang,51,158.6,107.9,Female,Married,Field trials officer,90598,24,SUV,Hybrid,False,
+Johnny Smith,48,157.7,98.8,Female,Married,Claims inspector/assessor,86620,98,Truck,Electric,False,2015.0
+Mary Hoffman,28,173.1,94.3,Male,Single,Astronomer,55943,224,SUV,Hybrid,True,2020.0
+Marc Hale,61,195.3,64.5,Male,Married,"Conservation officer, nature",80719,345,Electric,Hybrid,True,
+Tammy Jackson,69,167.9,108.1,Female,Single,Archaeologist,77013,460,Hybrid,Hybrid,False,2022.0
+Linda Cobb,40,151.8,69.2,Female,Divorced,Translator,91198,113,Truck,Hybrid,True,
+Kristin Wagner,19,182.5,52.5,Male,Married,Physiological scientist,96829,407,Truck,Diesel,False,2017.0
+Robert Byrd,42,151.8,115.0,Female,Single,Hotel manager,83315,102,Luxury,Diesel,True,2020.0
+Mindy Jackson,67,183.1,99.8,Female,Single,Event organiser,22655,150,Sedan,Gasoline,False,2016.0
+Lauren Mckinney,28,196.7,87.5,Female,Single,Economist,71433,320,Electric,Hybrid,False,
+John Mejia,51,160.0,55.6,Male,Married,Homeopath,21604,306,Sedan,Diesel,True,2019.0
+Mark Bird,54,178.6,112.5,Female,Divorced,"Engineer, manufacturing systems",59598,194,Truck,Gasoline,False,2019.0
+Danielle Miller,59,197.3,100.8,Female,Divorced,Armed forces logistics/support/administrative officer,81535,89,Hybrid,Hybrid,False,
+Jill Ramsey,26,180.0,68.1,Female,Married,Games developer,84424,103,Hybrid,Diesel,False,2021.0
+John Ryan,37,171.6,87.9,Male,Divorced,Police officer,64775,430,Luxury,Diesel,False,
+Christopher Wood,28,177.7,105.5,Male,Divorced,Special educational needs teacher,87203,40,Hatchback,Diesel,False,2021.0
+Elizabeth Brown,31,179.0,81.8,Female,Single,"Teacher, secondary school",32000,349,Electric,Hybrid,False,
+Sarah Clark,55,195.9,115.0,Male,Single,"Programmer, multimedia",29052,334,SUV,Hybrid,False,
+Jesse Day,55,181.9,119.2,Male,Divorced,Oncologist,95156,475,SUV,Gasoline,False,2020.0
+David Waters,58,177.4,97.2,Male,Single,Technical author,77600,89,SUV,Hybrid,True,2023.0
+Abigail Sanchez,63,185.4,61.2,Female,Single,"Loss adjuster, chartered",97638,87,Electric,Diesel,False,
+Lauren Lawrence,36,193.2,61.4,Male,Married,Commercial/residential surveyor,75682,456,Sedan,Hybrid,False,
+Stacy Henderson,45,162.1,115.6,Female,Single,Dance movement psychotherapist,31352,15,Luxury,Diesel,True,2016.0
+Taylor Delgado,42,189.7,96.7,Female,Married,Museum education officer,31972,153,Luxury,Gasoline,True,
+Heather Butler,39,199.9,81.8,Female,Single,"Clinical scientist, histocompatibility and immunogenetics",32188,310,Electric,Gasoline,False,2020.0
+Haley Rosario,53,196.0,80.8,Male,Married,Theatre director,60829,334,Sedan,Gasoline,True,
+Erika Pierce,49,157.8,110.5,Female,Married,"Engineer, technical sales",27250,99,Truck,Electric,False,
+Daniel Marshall,22,187.7,58.6,Female,Divorced,Occupational therapist,36294,331,Luxury,Electric,True,
+Michele Phillips,44,167.9,68.4,Male,Married,Diagnostic radiographer,58457,249,Sedan,Diesel,True,
+Derek Marquez,55,189.8,97.7,Male,Single,Music therapist,78408,295,Hybrid,Electric,True,
+James Brown,28,178.0,52.3,Female,Single,"Education officer, environmental",43614,116,Sedan,Hybrid,True,2018.0
+Robert Turner,33,161.1,55.0,Male,Divorced,"Engineer, chemical",20962,143,Hatchback,Diesel,True,2017.0
+Ethan Farmer,66,178.3,80.0,Female,Divorced,Paramedic,49458,67,Electric,Hybrid,True,
+Joshua Cervantes,41,193.6,91.2,Male,Married,"Horticulturist, amenity",65375,313,Hatchback,Diesel,False,
+Kelly Carter,37,156.6,59.2,Male,Divorced,"Sales professional, IT",59776,254,Truck,Gasoline,True,2021.0
+Valerie Mccarty,20,179.5,60.2,Male,Divorced,"Psychotherapist, dance movement",92034,113,Hybrid,Diesel,True,2020.0
+Seth Gutierrez,58,176.7,107.8,Male,Divorced,Chartered loss adjuster,79577,271,SUV,Gasoline,False,
+Craig Montoya,47,164.5,99.0,Male,Divorced,Tour manager,64964,367,Electric,Gasoline,True,2021.0
+Natalie White,59,155.2,66.8,Female,Divorced,"Doctor, hospital",72875,279,Luxury,Diesel,True,
+Christopher Taylor,48,164.5,60.4,Male,Divorced,Automotive engineer,45405,316,SUV,Diesel,True,
+Jessica Henry,66,160.8,118.8,Male,Divorced,Garment/textile technologist,90503,199,Sedan,Diesel,True,2021.0
+Christina Cooper,30,171.3,111.0,Male,Divorced,TEFL teacher,64287,351,Electric,Gasoline,True,
+Dr. Gary Montes,56,193.7,114.9,Male,Single,Health promotion specialist,31614,62,SUV,Diesel,True,
+Rodney Joseph,27,193.9,87.0,Female,Divorced,Transport planner,73769,171,Sedan,Diesel,False,2017.0
+Isabella Boyd,58,192.0,111.8,Female,Married,Clinical cytogeneticist,44138,134,Hatchback,Diesel,False,2015.0
+Angela Hawkins,44,193.3,118.5,Male,Divorced,Interpreter,54835,151,SUV,Electric,False,
+Debra Turner,47,173.4,86.2,Female,Divorced,Prison officer,46274,403,Luxury,Diesel,True,
+Michael Morrow,59,198.5,55.4,Male,Married,Video editor,67706,427,Electric,Diesel,False,2022.0
+Jonathan Hill,48,192.0,69.2,Female,Single,"Engineer, aeronautical",44027,94,Truck,Hybrid,False,2021.0
+Dr. Eric King MD,48,165.9,95.8,Female,Married,Firefighter,41452,26,Truck,Gasoline,True,2023.0
+Carolyn Fox,23,193.0,95.2,Male,Divorced,"Civil engineer, contracting",77011,335,Hybrid,Hybrid,False,
+Jonathan Salazar,38,194.9,95.6,Male,Single,"Therapist, speech and language",49530,50,Sedan,Hybrid,True,
+Heather Jones,46,157.3,83.6,Male,Married,Magazine journalist,56347,236,Hybrid,Diesel,False,
+Cynthia Sanders,23,191.8,64.6,Male,Married,Oceanographer,38222,489,Electric,Electric,False,
+Kristine Ballard,20,187.3,105.8,Male,Married,"Conservator, furniture",53253,461,Hatchback,Electric,True,2015.0
+Janice Perez,57,170.4,59.5,Female,Single,Food technologist,84881,397,Electric,Electric,True,2015.0
+Thomas Davis,23,194.1,117.9,Female,Married,Environmental manager,26216,483,Electric,Gasoline,True,2023.0
+Ashley Roman,26,157.6,53.2,Male,Divorced,"Designer, fashion/clothing",82387,189,Hybrid,Gasoline,True,
+Melissa Allen,64,199.8,60.6,Male,Married,Air traffic controller,81159,106,Truck,Electric,True,
+Lindsay Williams,56,155.3,80.7,Male,Married,"Buyer, retail",37842,329,Truck,Electric,True,2015.0
+Meredith Sparks,49,178.0,96.4,Male,Divorced,"Programmer, multimedia",74305,22,Hybrid,Electric,True,2016.0
+William Brewer,63,163.0,84.7,Male,Divorced,Stage manager,27942,49,Hatchback,Diesel,False,
+Cheryl Smith,40,157.2,93.4,Female,Single,"Surveyor, rural practice",93543,114,Hybrid,Diesel,False,
+Norman Castro,58,193.7,88.6,Male,Married,Event organiser,80729,365,Hatchback,Diesel,True,
+Tyler Owens,19,159.5,119.4,Female,Divorced,"Lecturer, further education",63221,330,SUV,Diesel,True,
+Jessica Schultz,66,197.4,55.3,Male,Married,Facilities manager,86207,221,Electric,Diesel,True,2015.0
+Douglas Schwartz,63,192.6,91.6,Male,Divorced,"Engineer, agricultural",36552,163,Hatchback,Diesel,False,
+Shawn Gonzalez,55,173.9,63.4,Male,Single,"Geologist, wellsite",27918,136,Hybrid,Hybrid,True,2015.0
+Cynthia Fuentes,23,195.0,79.2,Female,Divorced,"Education officer, community",89557,409,SUV,Gasoline,True,2019.0
+Steven Alvarado,36,172.4,52.2,Male,Divorced,Manufacturing engineer,50251,334,SUV,Gasoline,False,
+Jeffery Black,37,196.5,101.6,Male,Divorced,Musician,41180,300,SUV,Hybrid,False,2022.0
+Mary Glover,44,167.3,70.6,Female,Married,Health and safety adviser,51635,185,SUV,Gasoline,True,2017.0
+Lisa Williams,69,185.9,115.2,Male,Married,"Programmer, systems",22522,148,Sedan,Gasoline,True,
+David White,48,173.6,92.8,Male,Divorced,Chief Technology Officer,68703,378,Sedan,Hybrid,False,2020.0
+Molly Sosa,57,194.4,56.5,Female,Divorced,Press sub,88393,39,Hybrid,Diesel,False,2019.0
+Robert Reynolds,64,158.0,50.5,Male,Divorced,Colour technologist,44598,47,Luxury,Diesel,False,2022.0
+Barbara Martinez,27,195.2,77.3,Male,Divorced,Mechanical engineer,78484,110,Truck,Diesel,True,
+Jennifer Foster,32,173.8,78.9,Male,Single,Energy engineer,49988,487,Truck,Diesel,True,
+Stephanie Ray,27,197.8,68.7,Male,Married,Careers adviser,41412,451,Sedan,Diesel,True,
+Christopher Flores,36,177.1,93.9,Female,Married,Records manager,61407,56,Truck,Electric,False,2015.0
+Joseph Russell,70,158.5,85.0,Male,Married,Drilling engineer,97195,392,Luxury,Hybrid,True,2019.0
+Brandon Richmond,67,186.3,116.5,Female,Married,Contracting civil engineer,69517,388,Sedan,Gasoline,False,2022.0
+Renee Hickman,70,173.6,117.8,Female,Divorced,TEFL teacher,32506,321,Luxury,Gasoline,True,
+Devin Tran,60,159.2,77.1,Male,Married,Catering manager,68487,348,Hybrid,Hybrid,True,
+Cassandra Reyes,38,195.9,106.0,Male,Married,"Optician, dispensing",87720,306,Hatchback,Electric,True,
+Tammy Lopez,34,171.8,61.2,Male,Divorced,Probation officer,88466,26,Hatchback,Gasoline,True,
+Lawrence Frazier,25,184.5,67.1,Female,Married,Biomedical engineer,62506,407,Sedan,Gasoline,False,2015.0
+Dennis Patterson,54,197.3,110.7,Male,Married,Broadcast presenter,84759,289,Sedan,Diesel,False,2019.0
+Ashley Ellison,67,167.0,68.3,Female,Single,"Teacher, secondary school",37444,47,Electric,Gasoline,False,
+Christine David,30,191.1,65.7,Male,Married,Actor,50914,345,Hybrid,Gasoline,True,2022.0
+Keith Rocha,26,177.7,100.8,Male,Divorced,Regulatory affairs officer,66772,29,Luxury,Hybrid,False,2022.0
+Mary Kelley,38,195.3,72.9,Female,Married,Insurance account manager,89310,444,Sedan,Diesel,True,
+Miguel Walton,66,155.4,116.2,Female,Single,Office manager,74000,141,Hybrid,Gasoline,False,
+James Phillips,22,192.9,90.6,Male,Single,"Engineer, civil (contracting)",41999,488,Hybrid,Diesel,True,
+Monica May,23,164.5,95.0,Male,Married,Civil Service administrator,43829,468,Truck,Diesel,True,2016.0
+Angelica Smith,46,178.6,94.4,Male,Single,Hospital doctor,70240,320,Electric,Diesel,False,
+Brian Meyer,44,181.6,94.6,Female,Single,"Engineer, building services",53729,220,Sedan,Gasoline,False,
+Jerry Summers,68,150.7,61.7,Female,Single,Pathologist,81248,473,Luxury,Electric,False,2020.0
+Levi Banks,66,151.8,113.7,Male,Married,Wellsite geologist,43699,283,Sedan,Diesel,True,2016.0
+Erika Armstrong,38,168.5,57.7,Female,Divorced,Herpetologist,96803,457,Luxury,Hybrid,False,
+James Knight,42,185.8,80.9,Male,Divorced,Multimedia specialist,89659,267,SUV,Gasoline,True,2017.0
+Marco Mason,32,159.0,69.4,Male,Married,Technical brewer,37328,472,Truck,Hybrid,True,
+Jonathan Hurley,40,158.9,75.0,Female,Married,"Exhibitions officer, museum/gallery",75541,160,Hybrid,Hybrid,False,2017.0
+Crystal Owens,66,167.6,104.6,Female,Married,Actuary,31840,392,Luxury,Hybrid,True,2021.0
+Anthony Browning,18,165.0,111.2,Male,Single,Broadcast presenter,62004,128,SUV,Hybrid,False,2021.0
+Emily Potter,56,176.9,108.7,Female,Married,"Engineer, water",32982,330,Sedan,Diesel,False,2015.0
+Isaac Santiago,27,174.1,84.0,Male,Single,Adult guidance worker,51150,207,Sedan,Gasoline,False,
+Andrea Gray,40,170.0,53.2,Male,Single,Consulting civil engineer,95753,64,Hatchback,Diesel,True,2017.0
+Charles Silva,60,199.2,118.7,Female,Divorced,Structural engineer,42376,412,Sedan,Electric,True,
+Samuel May,33,192.8,100.5,Female,Divorced,"Optician, dispensing",72151,193,Luxury,Diesel,True,2018.0
+Catherine Hodges,42,185.7,108.0,Male,Single,Solicitor,74813,483,SUV,Diesel,True,
+Tonya Diaz,23,190.6,117.0,Male,Married,Agricultural consultant,30573,257,Luxury,Hybrid,False,
+Erika Gibson,29,182.9,58.4,Female,Married,Magazine journalist,32171,418,Hatchback,Electric,True,
+John Conway,53,179.9,50.2,Female,Single,Geophysical data processor,61590,335,Luxury,Hybrid,False,
+Melissa Simmons,38,179.0,67.0,Female,Single,"Surveyor, insurance",30178,472,Hybrid,Diesel,False,
+Karen Suarez,62,197.5,60.1,Female,Married,"Psychologist, educational",88025,80,Electric,Electric,True,2017.0
+Scott Adams,59,156.6,55.0,Male,Married,Archaeologist,28814,432,Luxury,Diesel,True,2016.0
+Steven Miller,53,197.1,85.0,Female,Single,Armed forces technical officer,50673,303,Electric,Gasoline,True,
+Emily Sherman,35,155.1,60.3,Female,Divorced,Systems analyst,64576,154,Truck,Electric,True,
+Michael Todd,65,170.9,60.2,Female,Married,"Surveyor, building",82952,70,Luxury,Gasoline,False,2021.0
+David Davis,46,193.4,52.9,Female,Divorced,"Scientist, biomedical",55578,348,Truck,Gasoline,False,
+Craig Brooks,20,166.2,64.6,Male,Divorced,Company secretary,48477,147,SUV,Diesel,False,2019.0
+Kimberly Robinson,55,173.0,55.8,Female,Divorced,"Therapist, occupational",68108,475,Electric,Gasoline,True,
+Ryan Silva,27,175.9,111.0,Male,Divorced,Statistician,42716,218,Luxury,Electric,True,2019.0
+Autumn George,26,174.0,86.9,Female,Single,Civil Service fast streamer,71091,224,Hybrid,Electric,True,2020.0
+Aaron Robinson,64,179.5,91.8,Male,Married,"Surveyor, minerals",87840,287,Hybrid,Electric,True,2023.0
+Janet Anderson,65,182.3,97.8,Male,Divorced,Media planner,71887,16,Sedan,Electric,False,2017.0
+Stephanie Miller,60,155.5,110.7,Female,Divorced,Medical illustrator,87705,172,Truck,Diesel,True,
+Tammy Cardenas,44,150.1,62.5,Male,Divorced,Higher education lecturer,84881,412,SUV,Gasoline,True,2018.0
+Laura Neal,50,183.0,73.8,Female,Single,Artist,74911,307,Electric,Hybrid,True,
+Barbara Reese,38,194.7,109.9,Male,Married,Financial trader,71931,142,Hybrid,Hybrid,False,
+Melinda Wilson,35,167.8,85.2,Female,Divorced,"Designer, jewellery",44600,446,Luxury,Electric,True,
+Kristie Myers,53,168.1,78.5,Female,Single,Chief Financial Officer,92019,247,Hatchback,Diesel,True,2023.0
+Anthony Martinez,47,160.2,93.8,Male,Married,Tourism officer,89499,51,SUV,Gasoline,True,
+Kathryn Wheeler,37,196.9,84.0,Male,Divorced,"Surveyor, planning and development",39508,205,Hybrid,Hybrid,False,2022.0
+Shannon Mccoy,51,177.6,92.3,Female,Divorced,"Teacher, English as a foreign language",25278,224,Hybrid,Electric,True,2015.0
+Donna Haynes,66,192.8,113.1,Female,Married,"Conservator, furniture",20426,496,Hybrid,Diesel,True,2018.0
+Chelsea Hayden,26,170.7,74.7,Female,Married,Logistics and distribution manager,83124,276,Electric,Diesel,False,
+Lonnie Miller,28,158.1,92.2,Female,Divorced,Insurance underwriter,36487,57,Hatchback,Hybrid,False,
+Patricia Burns,57,192.2,61.3,Female,Married,Garment/textile technologist,50287,322,Hybrid,Gasoline,False,2016.0
+Mr. Kyle Wells,40,195.6,61.2,Male,Married,"Engineer, production",49616,269,SUV,Diesel,True,2020.0
+Erin Aguilar,20,177.8,115.9,Male,Married,"Designer, ceramics/pottery",55125,58,Hybrid,Diesel,False,2021.0
+Jacob Jones,50,187.0,62.1,Male,Divorced,Air traffic controller,72538,143,Electric,Electric,True,
+Samuel Petersen,28,184.2,113.5,Male,Single,"Scientist, physiological",32509,165,Hatchback,Diesel,True,
+Jose Robbins,40,158.2,72.4,Male,Married,Geoscientist,78948,407,Sedan,Hybrid,True,
+Ann Farmer,39,150.2,51.3,Female,Single,Outdoor activities/education manager,65388,413,Sedan,Electric,True,2015.0
+Carla Robinson,46,184.8,66.0,Female,Divorced,Office manager,39093,296,Hybrid,Electric,False,
+Christopher Smith,33,177.1,93.0,Female,Married,Firefighter,25579,338,Electric,Gasoline,False,
+Jason Martinez,64,185.9,57.7,Female,Married,Clinical biochemist,29015,38,Electric,Hybrid,True,2022.0
+Brandi Martinez,69,157.7,78.6,Female,Married,Web designer,23562,71,Truck,Electric,False,
+Lawrence Kennedy,70,175.8,110.6,Male,Divorced,Historic buildings inspector/conservation officer,54168,455,Truck,Hybrid,False,
+Tyler Monroe,26,191.9,66.6,Female,Single,Public relations account executive,54109,123,Electric,Diesel,True,
+Amy Brown,65,164.1,61.6,Female,Divorced,Human resources officer,75021,277,Luxury,Hybrid,False,
+Stacey Hernandez,69,183.5,85.8,Female,Divorced,"Embryologist, clinical",20663,477,Hatchback,Hybrid,True,2015.0
+David Short,49,176.0,78.2,Female,Married,Civil Service fast streamer,22018,455,Truck,Diesel,False,
+William Williams,66,164.6,75.5,Male,Married,"Runner, broadcasting/film/video",39320,307,Truck,Gasoline,False,
+Tami Nash,58,158.9,80.2,Female,Divorced,Counselling psychologist,79291,139,Hybrid,Diesel,True,2017.0
+Victoria Guerrero,39,191.0,88.2,Female,Single,Software engineer,29234,138,Hybrid,Hybrid,True,
+Lisa Barber DDS,47,158.0,56.3,Female,Married,"Production assistant, radio",87980,97,Hatchback,Electric,True,2020.0
+Jason Manning,54,165.9,58.7,Female,Divorced,"Engineer, manufacturing",88888,397,Sedan,Diesel,False,
+Ashley Brown,24,152.1,53.1,Female,Single,Computer games developer,87307,149,Electric,Diesel,False,
+Rita Stone,37,177.9,64.3,Male,Married,Product manager,77651,319,Truck,Electric,True,2016.0
+Michael Gonzalez,31,178.8,96.7,Male,Single,Travel agency manager,39578,225,Luxury,Gasoline,True,
+Dr. Colleen Alexander,40,169.6,51.1,Male,Single,Telecommunications researcher,20303,407,SUV,Diesel,False,2018.0
+Amanda Moore,42,170.1,52.4,Male,Divorced,Animal nutritionist,70831,469,Luxury,Gasoline,False,2015.0
+Elizabeth Murray,38,155.9,67.4,Female,Single,Forest/woodland manager,93518,91,SUV,Electric,False,
+Sarah York,18,153.8,77.0,Female,Divorced,"Psychologist, clinical",29247,307,Hybrid,Gasoline,False,2022.0
+Robin Deleon,59,174.8,101.1,Female,Single,Data processing manager,43262,85,Hybrid,Electric,True,
+Jacqueline Cline,67,163.8,56.5,Female,Married,Building surveyor,49890,437,Hybrid,Diesel,False,
+Christine Martin,23,193.3,109.9,Female,Divorced,Personal assistant,31635,204,Hybrid,Diesel,False,
+Nicholas Hill,18,168.0,112.4,Female,Married,"Designer, interior/spatial",61923,496,Hatchback,Hybrid,True,
+Rachael Williams,49,174.8,117.4,Female,Married,Local government officer,23509,130,SUV,Hybrid,True,
+Jonathan Parks,28,162.4,69.5,Female,Single,"Therapist, drama",53170,441,Sedan,Electric,True,2018.0
+Jason Cochran,35,163.1,117.5,Male,Divorced,Oncologist,36393,17,Hatchback,Diesel,False,
+Teresa Little,54,190.0,93.8,Female,Married,Associate Professor,31760,273,Electric,Gasoline,False,2022.0
+Dorothy Perez,56,164.5,102.8,Female,Married,Physiological scientist,41303,330,Luxury,Electric,True,
+Robert Anderson MD,39,191.7,92.6,Female,Divorced,Product manager,89787,179,Sedan,Gasoline,False,2017.0
+Bailey Michael,36,185.5,54.3,Female,Divorced,Government social research officer,97322,337,Truck,Hybrid,False,
+Spencer Heath III,28,179.5,108.3,Male,Divorced,Rural practice surveyor,83772,173,Hybrid,Gasoline,True,2023.0
+Jennifer Moore,37,185.5,78.5,Male,Divorced,Physiological scientist,51611,267,SUV,Hybrid,False,
+Dawn Wilson,38,156.0,67.2,Female,Divorced,Bonds trader,53590,35,Sedan,Gasoline,True,2015.0
+Frank Pitts Jr.,37,178.3,90.6,Male,Married,Environmental manager,96127,130,SUV,Hybrid,True,
+Andrew Hensley,18,186.9,63.6,Male,Married,Stage manager,22020,244,SUV,Electric,True,2016.0
+Michelle Cruz,34,153.9,78.7,Male,Married,Medical illustrator,67133,95,Hybrid,Hybrid,False,
+Sean Williams,53,200.0,98.7,Female,Married,Early years teacher,90467,420,Luxury,Diesel,False,2023.0
+Beth Mendez,23,181.2,117.4,Female,Single,"Producer, radio",55776,353,Luxury,Gasoline,True,2022.0
+Cassandra Higgins,29,172.3,89.8,Male,Married,Hospital doctor,60183,60,Hatchback,Hybrid,True,2023.0
+Jamie Martinez,67,172.8,86.4,Male,Married,"Engineer, land",55640,232,Luxury,Electric,False,
+Brianna Bean,33,163.2,71.9,Male,Single,"Scientist, forensic",54945,147,Luxury,Hybrid,False,2015.0
+Sergio Walker,36,169.3,92.5,Female,Married,Systems analyst,21053,403,Truck,Diesel,False,
+William Maldonado,33,150.9,70.1,Male,Divorced,"Therapist, drama",59499,162,Hybrid,Gasoline,True,2020.0
+David Wright,26,194.2,73.4,Female,Divorced,Civil Service administrator,51137,217,Hybrid,Electric,True,2018.0
+Debra Hale,20,178.5,93.3,Male,Married,Solicitor,33757,193,Electric,Electric,False,2021.0
+Mrs. Lori Alexander DDS,44,164.1,81.5,Male,Single,"Development worker, community",86120,169,Truck,Hybrid,True,
+William Richmond,28,199.5,90.5,Male,Divorced,Waste management officer,67430,349,Electric,Hybrid,True,2021.0
+Dr. Steven Miller,68,199.5,87.7,Male,Divorced,"Producer, television/film/video",79107,328,Electric,Hybrid,True,
+Amanda Lloyd,33,186.4,111.9,Female,Married,Chiropodist,21783,118,SUV,Gasoline,True,
+Jesse Lopez,47,161.9,113.2,Female,Divorced,"Psychologist, clinical",40170,113,Truck,Diesel,False,2018.0
+Alexandra Sanchez,20,173.9,79.0,Male,Married,Race relations officer,64394,242,Truck,Gasoline,True,2021.0
+David Bautista,31,179.2,53.0,Male,Divorced,Horticultural therapist,62629,309,SUV,Hybrid,False,
+Christopher Austin,46,173.9,118.1,Female,Divorced,Stage manager,23020,491,Electric,Diesel,True,2016.0
+Kristin Green,69,154.6,86.1,Female,Married,Petroleum engineer,23678,338,Hybrid,Gasoline,False,2019.0
+Michael Mills,31,195.2,60.7,Female,Married,IT trainer,32691,311,Hatchback,Hybrid,True,2016.0
+Kaitlyn Gordon,31,178.3,77.0,Female,Divorced,Exhibition designer,43778,222,Sedan,Electric,False,
+Mr. Robert Harris III,37,188.7,91.3,Female,Married,Oceanographer,66193,237,Sedan,Diesel,True,
+Matthew Little,24,199.7,80.4,Female,Divorced,Technical brewer,88623,65,Truck,Gasoline,True,2022.0
+Michael Jackson,69,187.0,66.0,Male,Single,"Engineer, mining",87400,296,Electric,Hybrid,False,
+Cynthia Raymond,37,157.4,112.2,Female,Married,Television/film/video producer,67758,332,Hybrid,Diesel,False,
+Tammy Williams,67,177.4,100.9,Female,Single,"Engineer, agricultural",73290,94,SUV,Diesel,False,
+Kenneth Shepherd,51,187.7,112.7,Male,Divorced,Armed forces operational officer,52172,377,SUV,Gasoline,False,
+Beth Stephens,62,158.3,104.9,Female,Single,Corporate investment banker,27322,452,Truck,Electric,True,
+Samantha Mitchell,27,154.4,78.4,Female,Married,Financial controller,24850,337,SUV,Hybrid,False,
+Jonathan Lynch,56,172.7,111.8,Female,Divorced,"Engineer, mining",31939,169,Luxury,Diesel,False,
+Jeffrey Carter,18,151.3,94.1,Male,Married,Stage manager,69666,414,Sedan,Electric,True,
+Michelle Maldonado,63,157.4,116.2,Female,Divorced,Art gallery manager,93846,349,Luxury,Hybrid,True,
+Scott Hill,49,171.4,109.0,Male,Divorced,Environmental health practitioner,91076,382,SUV,Gasoline,False,2018.0
+Daniel Dennis,23,171.5,65.4,Female,Married,Automotive engineer,47401,215,SUV,Electric,False,2015.0
+Lawrence Avery,49,170.6,68.0,Female,Divorced,Commercial art gallery manager,49848,88,Truck,Diesel,False,
+Andrea Ramirez,45,197.0,100.5,Female,Single,"Administrator, Civil Service",30840,141,Hatchback,Hybrid,False,
+Gerald Moore,29,166.4,95.1,Male,Divorced,Photographer,97252,85,Hybrid,Hybrid,False,
+Richard Jenkins,65,158.5,109.9,Male,Married,Careers adviser,78265,274,Truck,Gasoline,False,2019.0
+Jordan Robinson,63,156.1,57.9,Female,Married,Industrial/product designer,74608,375,Hybrid,Electric,False,
+Molly Barrett,67,155.8,104.6,Female,Single,"Nurse, mental health",86085,25,Luxury,Gasoline,True,2021.0
+Derek Cox,47,196.0,111.6,Male,Married,Psychiatric nurse,75337,32,Sedan,Hybrid,False,2017.0
+Autumn Berry,27,178.0,103.9,Male,Married,Field trials officer,51437,273,Sedan,Electric,False,
+James Huynh,42,197.1,107.4,Male,Married,"Investment banker, operational",77374,367,Luxury,Hybrid,False,
+April Ortega,19,178.0,81.1,Male,Married,"Engineer, control and instrumentation",81348,47,Electric,Diesel,True,2021.0
+Craig Warren,65,161.6,51.4,Female,Married,Video editor,26670,125,Hatchback,Gasoline,True,
+Danielle Jones,19,153.2,58.5,Female,Divorced,Probation officer,89748,189,Luxury,Electric,False,
+Robin Rivera,57,151.0,57.9,Male,Divorced,Materials engineer,99975,465,Hatchback,Electric,False,
+James Allen,62,197.0,71.7,Female,Single,"Administrator, local government",62381,83,Electric,Hybrid,False,2015.0
+Mr. Eric Moore,50,192.3,73.1,Female,Divorced,"Scientist, research (physical sciences)",87934,289,Electric,Diesel,False,
+Beth Mejia,31,166.9,100.6,Male,Married,Aeronautical engineer,93873,274,Luxury,Electric,False,2019.0
+Mandy Krueger,20,191.2,110.9,Female,Single,Herpetologist,48317,244,Sedan,Diesel,True,2018.0
+Richard Perez,70,181.7,58.0,Male,Single,Press photographer,27189,326,Hatchback,Electric,False,
+Sally Webb,44,191.6,106.2,Female,Single,Geoscientist,29400,72,SUV,Gasoline,False,
+Anthony Aguilar,63,194.1,66.6,Male,Married,Information systems manager,31478,373,SUV,Electric,True,
+Kevin Jacobs,37,163.9,119.5,Male,Single,"Designer, industrial/product",34131,130,SUV,Diesel,True,2018.0
+Raymond Pearson,36,174.5,50.2,Male,Married,"Surveyor, building",42157,61,SUV,Hybrid,True,
+Jennifer Lynch,46,151.8,113.5,Female,Single,Audiological scientist,91472,50,Sedan,Hybrid,False,2022.0
+Kathleen Bradley,33,177.3,97.9,Male,Divorced,Sales executive,89921,25,Hybrid,Gasoline,True,
+Shawn Bell,34,195.1,74.1,Female,Married,Patent attorney,97968,490,Sedan,Electric,False,
+Margaret Hunt,26,188.0,57.9,Female,Married,Product/process development scientist,63015,430,Truck,Diesel,False,2017.0
+Karen Washington,40,177.5,50.3,Female,Single,Illustrator,74595,27,SUV,Diesel,True,
+David Lambert,29,173.9,84.6,Female,Married,Pharmacologist,79161,33,SUV,Gasoline,False,2017.0
+Ruth Marsh,48,165.6,98.4,Female,Divorced,Video editor,61033,184,Luxury,Electric,False,
+Christopher Howard,22,160.5,83.3,Female,Single,Counselling psychologist,86768,305,Truck,Electric,True,2016.0
+Jessica Arroyo,68,153.8,65.9,Male,Single,Clinical embryologist,38765,263,Hatchback,Diesel,False,
+Tiffany Freeman,52,195.1,52.6,Male,Single,Teaching laboratory technician,22407,197,Truck,Electric,True,
+Mrs. Miranda Brooks,53,155.7,105.9,Female,Married,Ambulance person,61291,254,Hybrid,Hybrid,False,2018.0
+Daniel Hawkins,24,175.9,100.0,Male,Married,"Engineer, land",84557,365,Electric,Hybrid,True,
+Vanessa Murphy,48,195.3,116.6,Male,Single,Media planner,25105,118,Hatchback,Electric,False,2018.0
+Julie Allen,43,175.7,76.6,Male,Married,"Engineer, structural",75565,243,SUV,Gasoline,True,2015.0
+Jill Acosta,61,180.1,107.1,Female,Married,Hydrogeologist,76753,437,Luxury,Gasoline,True,
+Samuel Murphy,59,177.7,81.8,Female,Single,Clinical biochemist,84166,109,Hatchback,Hybrid,True,2016.0
+Nicholas Stewart,54,186.9,118.3,Male,Single,"Pharmacist, community",54295,45,Sedan,Electric,True,
+Michael Edwards,54,173.8,104.2,Male,Married,Musician,43496,466,Truck,Electric,True,
+Fred Henderson,56,175.7,77.6,Female,Married,Solicitor,86089,137,Luxury,Electric,True,
+Laura Flores,33,152.7,62.2,Male,Married,"Designer, fashion/clothing",82233,280,Hybrid,Diesel,False,
+Kelly Walsh,68,163.8,92.0,Female,Married,Leisure centre manager,90331,450,Truck,Electric,True,
+John Sweeney,61,177.5,114.5,Male,Single,Games developer,72531,286,Hatchback,Gasoline,True,
+Katrina Edwards,34,160.5,79.9,Female,Married,Teaching laboratory technician,80788,385,Truck,Hybrid,False,
+Austin Herring,24,175.1,99.6,Female,Divorced,Computer games developer,79509,91,SUV,Diesel,True,2022.0
